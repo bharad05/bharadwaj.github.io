@@ -138,6 +138,7 @@ include:
 # Plugins (previously gems:)
 plugins:
   - jekyll-include-cache
+  - jekyll-remote-theme # Add this line if using remote theme
 
 # hide RSS feed
 atom_feed:
