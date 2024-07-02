@@ -23,11 +23,11 @@ title_separator: "|"
 name: Bharadwaj Vangipuram
 email: vangipuram.bharadwaj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jonas Renault - Consultant, Researcher, Lecturer
-domain: https://bharad05/bharadwaj.github.io
+  Bharadwaj Vangipuram - Consultant, Researcher, Lecturer
+domain: https://bharad05.github.io/bharadwaj.github.io/
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bharad05/bharadwaj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: "bharad05/bharadwaj.github.io"
+url: "https://bharad05.github.io/bharadwaj.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "bharad05.github.io/bharadwaj.github.io"
 twitter_username: 
 github_username:  
 
